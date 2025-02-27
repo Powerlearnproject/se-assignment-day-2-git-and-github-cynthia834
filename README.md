@@ -25,7 +25,8 @@ Security Features: GitHub offers security features like vulnerability alerts, de
 Access Control: Private repositories and granular access control ensure that sensitive information and proprietary code are protected.
 7. User-Friendly Interface:
 Web Interface: GitHub’s web interface is intuitive and user-friendly, making it accessible to both beginners and experienced developers.
-GitHub Desktop: The GitHub Desktop application provides a graphical interface for managing repositories, making it easier for users who prefer not to use the command line.Maintains integrity by:
+GitHub Desktop: The GitHub Desktop application provides a graphical interface for managing repositories, making it easier for users who prefer not to use the command lines.
+Maintains integrity by:
 Tracks changes. 
 Facilitates independent development. 
 Ensures code quality through reviews and automated testing.
